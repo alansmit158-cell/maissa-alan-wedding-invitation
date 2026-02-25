@@ -1,0 +1,43 @@
+.container {
+    padding: 4rem 1rem;
+    background-color: var(--color-cream);
+    text-align: center;
+    color: var(--color-sage);
+}
+
+.container h2 {
+    font-size: 2rem;
+    margin-bottom: 2rem;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.timer {
+    display: flex;
+    justify-content: center;
+    gap: 1.5rem;
+    flex-wrap: wrap;
+}
+
+.timeUnit {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-width: 60px;
+}
+
+.number {
+    font-family: var(--font-serif);
+    font-size: 2.5rem;
+    color: var(--color-gold);
+    font-weight: bold;
+}
+
+.label {
+    font-family: var(--font-sans);
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-top: 0.5rem;
+    color: var(--color-text);
+}
