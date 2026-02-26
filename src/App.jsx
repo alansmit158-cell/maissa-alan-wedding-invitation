@@ -40,7 +40,7 @@ const weddingData = {
     { time: "21h00", title: "Plat Principal", iconName: "UtensilsCrossed", description: "Service du Couscous traditionnel" },
     { time: "21h45", title: "Henné & Kabyle", iconName: "Heart", description: "Cérémonie du Henné & Danse Kabyle" },
     { time: "22h30", title: "Dessert", iconName: "Cake", description: "Dessert et soirée dansante" },
-    { time: "23h00", title: "Animation II", iconName: "Star", description: "Jeu animation II " },
+    { time: "23h00", title: "Animation II", iconName: "Star", description: "Jeu animation II " }
   ],
   gifts: "Une boîte aux lettres sera mise à disposition des mariés pour recevoir vos enveloppes.",
   dressCode: {
