@@ -39,7 +39,8 @@ const weddingData = {
     { time: "20h00", title: "Ouverture du Bal", iconName: "Music", description: "Ouverture de la piste de danse" },
     { time: "21h00", title: "Plat Principal", iconName: "UtensilsCrossed", description: "Service du Couscous traditionnel" },
     { time: "21h45", title: "Henné & Kabyle", iconName: "Heart", description: "Cérémonie du Henné & Danse Kabyle" },
-    { time: "22h30", title: "Dessert", iconName: "Cake", description: "Dessert et soirée dansante" }
+    { time: "22h30", title: "Dessert", iconName: "Cake", description: "Dessert et soirée dansante" },
+    { time: "23h00", title: "Animation", iconName: "Star", description: "Jeu animation 2 " },
   ],
   gifts: "Une boîte aux lettres sera mise à disposition des mariés pour recevoir vos enveloppes.",
   dressCode: {
