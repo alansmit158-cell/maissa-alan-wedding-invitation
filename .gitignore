@@ -24,3 +24,6 @@ dist-ssr
 *.sw?
 
 .vercel
+
+# Large audio files - host separately
+*.mp3
